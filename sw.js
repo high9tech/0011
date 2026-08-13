@@ -5,6 +5,7 @@ const ASSETS_TO_CACHE = [
   './index.html',
   './script.js',
   './manifest.json',
+ './goldhen.bin',
   './logo.png' // <--- تم إضافة ملف الصورة هنا للتخزين أوفلاين
 ];
 
